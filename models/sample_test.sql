@@ -1,2 +1,2 @@
 select *
-from box_master_files.fivetran_audit;
+from box_master_files.fivetran_audit
